@@ -57,7 +57,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
 
   - 👨 39 anos;
   - 👦 Pai do Bê;
-  - 👨🏽‍💻 Apaixonado por tecnologia desde 1995
+  - 👨🏽‍💻 Apaixonado por tecnologia desde 1995;
   - 🎸 Meu hobby é musica. Tocar instrumentos e literatura;
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas; <br>
   -- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. --

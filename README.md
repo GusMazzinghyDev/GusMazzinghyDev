@@ -30,7 +30,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
 
 <div>
   <div>
-    <img align="right" src="https://media.giphy.com/media/3ohuAxV0DfcLTxVh6w/giphy.gif" width="400" frameBorder="0" class="giphy-embed" ></img>
+    <img align="right" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="400" frameBorder="0" class="giphy-embed" ></img>
   </div>
   <div>
     <p> Atualmente sou estudante de desenvolvimento Web Full-Stack na <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. </p>

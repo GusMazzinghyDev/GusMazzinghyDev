@@ -2,7 +2,7 @@
 
 <br />
 
-Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como desenvolvedor back-end.
+Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como desenvolvedor.
 
 <br />
 
@@ -22,8 +22,6 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
     <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
   </a>
 </div>
-
-<br />
 <br />
 
 **Sobre meus estudos:**
@@ -49,8 +47,6 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
     </p>
   </div>
 </div>
-
-<br />
 <br />
 
 **Mais sobre mim:**
@@ -58,7 +54,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
   - 👨 39 anos;
   - 👦 Pai do Bê;
   - 👨🏽‍💻 Apaixonado por tecnologia desde 1995;
-  - 🎸 Meu hobby é musica. Tocar instrumentos e literatura;
+  - 🎸 Meu hobby é musica. Tocar instrumentos.
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas; <br>
   -- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. --
 
@@ -105,15 +101,16 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
       <img alt="Node js" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" />
     </a>
       &nbsp;&nbsp;
-    <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
-      <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
-    </a>
-        <a target="_blank" href="https://www.mysql.com/" rel="nofollow">
+    <a target="_blank" href="https://www.mysql.com/" rel="nofollow">
       <img alt="Mysql" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://dev.mysql.com/doc/workbench/en/" rel="nofollow">
       <img alt="Mysql Workbench" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
+      <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
@@ -126,8 +123,8 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
   </div>
   <div>
       &nbsp;&nbsp;
-    <a target="_blank" href="https://pop.system76.com/" rel="nofollow">
-      <img alt="Pop!_OS" width="38px" src="https://i.redd.it/ms9je823h6y31.png" />
+    <a target="_blank" href="https://insomnia.rest/" rel="nofollow">
+      <img alt="Insomnia" width="38px" src="https://insomnia.rest/images/insomnia-logo.svg" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.heroku.com/">

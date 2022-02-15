@@ -124,7 +124,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
   <div>
       &nbsp;&nbsp;
     <a target="_blank" href="https://insomnia.rest/" rel="nofollow">
-      <img alt="Insomnia" width="38px" src="https://insomnia.rest/images/insomnia-logo.svg" />
+      <img alt="Insomnia" width="38px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.heroku.com/">

@@ -127,13 +127,13 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
       <img alt="Insomnia" width="38px" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" />
     </a>
       &nbsp;&nbsp;
-    <a target="_blank" href="https://www.heroku.com/">
-      <img alt="Heroku" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
-    </a>
-      &nbsp;&nbsp;
     <a target="_blank" href="https://www.postman.com/">
       <img alt="Postman" width="38px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />
     </a>
+        <a target="_blank" href="https://www.heroku.com/">
+      <img alt="Heroku" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" />
+    </a>
+      &nbsp;&nbsp;
   </div>
 </div>
 

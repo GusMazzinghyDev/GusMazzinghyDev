@@ -113,6 +113,10 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
       <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
     </a>
       &nbsp;&nbsp;
+    <a target="_blank" href="https://www.docker.com/">
+      <img alt="Docker" width="38px" src="https://pplware.sapo.pt/wp-content/uploads/2019/03/docker_01-1-720x332.jpg" />
+    </a>
+      &nbsp;&nbsp;
     <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
       <img alt="MongoDB" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
     </a>

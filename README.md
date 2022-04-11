@@ -114,7 +114,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.docker.com/">
-      <img alt="Docker" width="38px" src="https://pplware.sapo.pt/wp-content/uploads/2019/03/docker_01-1-720x332.jpg" />
+      <img alt="Docker" width="38px" src="https://avatars.githubusercontent.com/u/5429470?s=200&v=4" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">

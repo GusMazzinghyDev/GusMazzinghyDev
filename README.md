@@ -101,6 +101,14 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
       <img alt="Node js" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" />
     </a>
       &nbsp;&nbsp;
+    <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
+      <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
+    </a>
+      &nbsp;&nbsp;
+        <a target="_blank" href="https://sequelize.org/" rel="nofollow">
+      <img alt="Sequelize" width="38px" src="https://sequelize.org/img/logo.svg" />
+    </a>
+      &nbsp;&nbsp;
     <a target="_blank" href="https://www.mysql.com/" rel="nofollow">
       <img alt="Mysql" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />
     </a>
@@ -115,14 +123,6 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
       &nbsp;&nbsp;
     <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
       <img alt="MongoDB" width="38px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" />
-    </a>
-      &nbsp;&nbsp;
-        <a target="_blank" href="https://expressjs.com/pt-br/" rel="nofollow">
-      <img alt="Express" width="38px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_express_icon_161294.png" />
-    </a>
-      &nbsp;&nbsp;
-        <a target="_blank" href="https://sequelize.org/" rel="nofollow">
-      <img alt="Sequelize" width="38px" src="https://sequelize.org/img/logo.svg" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://docs.python.org/" rel="nofollow">

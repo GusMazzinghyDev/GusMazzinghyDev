@@ -87,7 +87,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.typescriptlang.org/">
-      <img alt="Type script" width="38px" src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png](https://www.typescriptlang.org/)" />
+      <img alt="Type script" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/640px-Typescript_logo_2020.svg.png" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">

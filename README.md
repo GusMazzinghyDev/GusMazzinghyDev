@@ -56,6 +56,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
   - 👨🏽‍💻 Apaixonado por tecnologia desde 1995;
   - 🎸 Meu hobby é musica. Tocar instrumentos.
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas; <br>
+
   -- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. --
 
 <br />
@@ -83,6 +84,10 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
       &nbsp;&nbsp;
     <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
       <img alt="Java script" width="38px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" />
+    </a>
+      &nbsp;&nbsp;
+    <a target="_blank" href="https://www.typescriptlang.org/">
+      <img alt="Type script" width="38px" src="[https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png](https://www.typescriptlang.org/)" />
     </a>
       &nbsp;&nbsp;
     <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">

@@ -133,7 +133,6 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
     <a target="_blank" href="https://docs.python.org/" rel="nofollow">
       <img alt="Python" width="38px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" />
     </a>
-  </div>
   <div>
       &nbsp;&nbsp;
     <a target="_blank" href="https://insomnia.rest/" rel="nofollow">

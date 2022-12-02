@@ -41,7 +41,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
         Certificado - Front-End | Trybe
       </a>
       <br>
-      - <a target="_blank" href="">
+      - <a target="_blank" href="https://www.credential.net/867d5219-11f6-42ef-a4ff-b6a08a59a144">
         Certificado - Back-End | Trybe
       </a>
     </p>

@@ -57,7 +57,7 @@ Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como 
   - 🎸 Meu hobby é musica. Tocar instrumentos.
   - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas; <br>
 
-  -- - 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações. --
+  -- - 📝 Veja meu Curriculum Vitae <a href="https://drive.google.com/file/d/1NKmj_1wrcwoLMlrFrpA9vsDYQ5k6j6EP/view?usp=share_link" target="_blank">clicando aqui</a> para mais informações. --
 
 <br />
 <br />

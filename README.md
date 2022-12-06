@@ -2,7 +2,7 @@
 
 <br />
 
-Olá, me chamo **Gustavo Mazzinghy** e estou a procura de uma oportunidade como desenvolvedor.
+Olá, me chamo **Gustavo Mazzinghy** desenvolvedor Full-Stack.
 
 <br />
 

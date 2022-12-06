@@ -51,7 +51,7 @@ Olá, me chamo **Gustavo Mazzinghy** desenvolvedor Full-Stack.
 
 **Mais sobre mim:**
 
-  - 👨 39 anos;
+  - 👨 40 anos;
   - 👦 Pai do Bê;
   - 👨🏽‍💻 Apaixonado por tecnologia desde 1995;
   - 🎸 Meu hobby é musica. Tocar instrumentos.
